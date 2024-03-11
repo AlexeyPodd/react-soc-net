@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-soc-net/static/css/main.6b4a22ee.css",
+    "main.js": "/react-soc-net/static/js/main.d7481716.js",
+    "static/css/8.ccfa7837.chunk.css": "/react-soc-net/static/css/8.ccfa7837.chunk.css",
+    "static/js/8.35638b4c.chunk.js": "/react-soc-net/static/js/8.35638b4c.chunk.js",
+    "static/css/580.6bc1b189.chunk.css": "/react-soc-net/static/css/580.6bc1b189.chunk.css",
+    "static/js/580.2ed17bb9.chunk.js": "/react-soc-net/static/js/580.2ed17bb9.chunk.js",
+    "static/js/592.6af86478.chunk.js": "/react-soc-net/static/js/592.6af86478.chunk.js",
+    "static/media/preloader.webp": "/react-soc-net/static/media/preloader.3f40aeb2e7a9b1cc50e4.webp",
+    "static/media/photoMock.webp": "/react-soc-net/static/media/photoMock.3571bdfce63ad3cdab4a.webp",
+    "index.html": "/react-soc-net/index.html",
+    "main.6b4a22ee.css.map": "/react-soc-net/static/css/main.6b4a22ee.css.map",
+    "main.d7481716.js.map": "/react-soc-net/static/js/main.d7481716.js.map",
+    "8.ccfa7837.chunk.css.map": "/react-soc-net/static/css/8.ccfa7837.chunk.css.map",
+    "8.35638b4c.chunk.js.map": "/react-soc-net/static/js/8.35638b4c.chunk.js.map",
+    "580.6bc1b189.chunk.css.map": "/react-soc-net/static/css/580.6bc1b189.chunk.css.map",
+    "580.2ed17bb9.chunk.js.map": "/react-soc-net/static/js/580.2ed17bb9.chunk.js.map",
+    "592.6af86478.chunk.js.map": "/react-soc-net/static/js/592.6af86478.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b4a22ee.css",
+    "static/js/main.d7481716.js"
+  ]
+}
